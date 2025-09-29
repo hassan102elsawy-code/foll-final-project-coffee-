@@ -1240,12 +1240,6 @@ footer {
 }
 /* end media 2 */
 @media (max-width: 767px) and (min-width:480px) {
-    .header {
-        height: 65vh;
-    }
-    .over-top {
-        margin-top: 8vh;
-    }
     .ul-link {
         width: 80vw;
         display: flex;
@@ -1538,13 +1532,6 @@ footer {
     }
 }
 @media (max-width: 479px) {
-    .header {
-        height: 45vh;
-    }
-    .over-top {
-        margin-top: 8vh;
-        height: 5vh;
-    }
     .ul-link {
         width: 80vw;
         display: flex;
@@ -1842,6 +1829,6 @@ footer {
     .p-end {
         font-size: 12px;
     }
-
 }
+
 
