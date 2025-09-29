@@ -82,10 +82,6 @@
     text-decoration: none;
     font-size: 25px;
 }
-.over-top-a {
-    height:8vh;
-    margin-top:10vh;
-}
 .angle-header {
     width: 25%;
 }
@@ -1245,7 +1241,7 @@ footer {
 /* end media 2 */
 @media (max-width: 767px) and (min-width:480px) {
     .header {
-        height: 78vh;
+        height: 65vh;
     }
     .over-top {
         margin-top: 8vh;
@@ -1543,7 +1539,7 @@ footer {
 }
 @media (max-width: 479px) {
     .header {
-        height: 55vh;
+        height: 45vh;
     }
     .over-top {
         margin-top: 8vh;
@@ -1848,3 +1844,4 @@ footer {
     }
 
 }
+
